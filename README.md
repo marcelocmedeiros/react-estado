@@ -1,3 +1,23 @@
+# Menu da Aplicação
+
+<p align="center">
+<img src="./imagens/gerenciamento.png" alt="Tela incial" width="420px"></img>
+<img src="./imagens/gerenciamento.gif" alt="Aplicação funcionando" width="418px"></img>
+</p>
+
+# Curso Gerenciamento de Estado
+
+Curso fala sobre gerenciamento de estado com React e Context API.
+
+## O que você vai encontrar neste repositório
+
+- **Primeiro**: Montamos a estrutura do projeto.
+- **Revisão**: Nos itens "Estado" e "Comuicação" foi usado para realizar uma revisão de assuntos fundamentais de React.
+- **Exemplo com Context API**: No item "Básico" da aplicação foi feito um exemplo super simples, mas esclarecedor sobre o uso de Context API para gerenciamento de estado com React.
+- **Loja**: A ideia foi construir um catálogo de produtos e um componente de carrinho para simular uma loja online.
+- **EAD**: Aqui foi construido uma mini EAD exibindo os capítulos e aulas mostrando as estatísticas do curso. 
+
+# 🤔 Segue abaixo como o projeto foi criado caso queira baixar e rodar no seu PC 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
